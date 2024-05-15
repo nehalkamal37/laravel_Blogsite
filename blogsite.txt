@@ -1,0 +1,7 @@
+1-laravel translatable
+2-laravel mcamara
+3-google recaptcha
+4-spatie
+5-datatable liberary
+5-softdeletes
+6-ckeditor
